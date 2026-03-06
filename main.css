@@ -1,4 +1,13 @@
-.navbar{
-    background-color: rgb(247, 194, 102) !important;
-    
+.custom-navbar{
+position: fixed;
+top: 0;
+width: 100%;
+background: rgba(214,167,88,0.9);
+}
+
+.hero{
+height: 100vh;
+background-image: url("image/header-large.jpg");
+background-size: cover;
+background-position: center;
 }
